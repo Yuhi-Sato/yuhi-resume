@@ -6,14 +6,30 @@
 - 生年月日: 2000年12月01日
 - X: [@yuhi_junior](https://x.com/yuhi_junior)
 
+## 職務要約
+1社目では、インターンと正社員の合計2年に渡り建設系SaaSの開発に携わり、導入社数3社から1,000社までの成長フェーズに貢献しました。
+インターン時代にはSaaSとして基本的な機能開発を通じてエンジニアとしての基礎を学びました。
+正社員時代には建設業の複雑なドメインに切り込む必要がある機能開発についてデータベース設計からフロントエンドの開発までを行いました。中でも帳票機能の開発では、導入社数の10倍成長（100社から1,000社）へ大きく貢献することができ、24年度に全社表彰をいただくことができました。
+
 ## 職務経歴
 
-### 株式会社プレックス
+### 株式会社プレックス（2023年8月 ~ 現在）
 
-- SaaS事業部 インターン (2023年8月 ~ 2024年3月)
-- SaaS事業部 正社員 (2024年4月 ~)
-
-#### 開発
+- 期間
+  - 2023年8月~2024年3月 インターン
+  - 2024年4月~現在 正社員
+- 職種
+  - バックエンドエンジニア・フロントエンドエンジニア
+- 役割
+  - メンバー
+- 仕事内容
+  - 建設系SaaS「サクミル」の開発・運用
+- チーム規模
+  - SaaS事業部全体で約30名・エンジニア4名
+- 担当業務
+  - 新規機能の設計・開発
+- 利用技術
+  - Ruby on Rails, GraphQL, Next.js, React, PostgreSQL
 
 #### 社内ブログ執筆
 
@@ -27,32 +43,40 @@
 ## 業務外活動
 ### OSS
 
+興味を持ったOSSについては、自分が疑問を持ったことについて納得するまで内部実装を読んでいます。また、Good First Issueや改善内容を見つければ積極的にPRを出すようにしています。下記はPRを送ったOSSです。
+
 - [rubocop](https://github.com/rubocop/rubocop)
-  - [Add new DefaultToNil option to Style/FetchEnvVar cop #14272](https://github.com/rubocop/rubocop/pull/14272)
+  - [Add new DefaultToNil option to Style/FetchEnvVar cop](https://github.com/rubocop/rubocop/pull/14272)
 - [sorbet](https://github.com/sorbet/sorbet)
   - [Improve error messages for include/extend confusion](https://github.com/sorbet/sorbet/pull/9132)
+- [ridgepole](https://github.com/ridgepole/ridgepole)
+  - [Document renamed_from change detection limitations](https://github.com/ridgepole/ridgepole/pull/584)
 - rails
   - [Fix table name normalization for non-table methods like :quote in migrations](https://github.com/rails/rails/pull/55076)
   - [Preserve enum methods when using becomes! on STI subclasses](https://github.com/rails/rails/pull/55074)
 
-### 登壇
+### カンファレンス登壇
 
-- Kaigi on Rails 2025 登壇
+自身の開発体験や主張を通じて、オーディエンスに楽しませ、学びを深めていただけることに喜びを感じます。何か少しでも業界へ還元できるようこれからも積極的にカンファレンス登壇を行っていきたいと考えています。
+
+- Kaigi on Rails 2025
   - [階層構造を表現するデータ構造とリファクタリング 〜1年で10倍成長したプロダクトの変化と課題〜](https://kaigionrails.org/2025/talks/Yuhi-Sato/)
 
-### イベント主催
+### コミュニティ主催
+
+私はキャリアの中で横のつながりを大切にしています。視座が近いエンジニア同士で近況を報告し合う中で、お互いのWill・Can・Mustを最適解へと近づけることができると考えているためです。単にワイワイするのも好きです。下記は主催しているコミュニティとなります。
 
 - [24th Dev](https://24th-engineers-community.connpass.com/)
+  - 最大40名ほどの24卒エンジニアが集まるイベントを主催しました。
 - [Wakate.rb](https://wakate-rb.connpass.com/)
+  - 若手のRubyコミュニティを盛り上げ、Rubyコミュニティに貢献していきたいと考えています。
 
 ### ISUCON
-ISUCON公式Blog https://isucon.net/
+[ISUCON](https://isucon.net/)は私がサーバーサイドへの興味に気付いたきっかけとなったコンテストです。深い知識と実装力、そして計測と改善のサイクルを地道に繰り返す地道な作業が問われるコンテストで、そこに強く魅了を感じ、のめり込みました。実際にISUCON14ではエンジニアとして経験年数が1年半程度にあったにも関わらず、新卒チームで初出場で入賞することができました。チームビルディングなども含め私を大きく成長させてくれたコンテストなのでこれからも参加し続けたいと考えています。
 
-- 日本CTO協会新卒合同ISUCON研修 優勝 
-  - https://cto-a.org/news/20240529_release
+- [日本CTO協会新卒合同ISUCON研修 優勝](https://cto-a.org/news/20240529_release)
   - [【CTO協会研修記録】 未経験エンジニアがISUCONで圧倒優勝するまでの話](https://product.plex.co.jp/entry/isucon-training)
-- ISUCON14 チーム 黒酢唐揚げサン丼 30位(入賞) / 834チーム中
-  - https://isucon.net/archives/58837992.html
+- [ISUCON14 チーム 黒酢唐揚げサン丼 30位(入賞) / 834チーム中](https://isucon.net/archives/58837992.html)
   - [ISUCON14で入賞した初出場の新卒チームが取り組んだこと](https://product.plex.co.jp/entry/review-isucon14)
 
 ### ブログ執筆
@@ -71,9 +95,18 @@ ISUCON公式Blog https://isucon.net/
 ### Qita
 - [【Ruby】&:メソッド名 × yield を完全に理解したい](https://qiita.com/Yuhi_investment/items/aa53a857898aad35148d)
 - [【Ruby on Rails】find_eachの内部実装を追う](https://qiita.com/Yuhi_investment/items/2b19b8d585b11b94e14a)
+- [ISUCON12本戦の素振りをした話](https://qiita.com/yuhi-sato/items/81afa9ad8e793ea205a2)
 
 ### SpeakerDeck
 - [階層構造を表現するデータ構造とリファクタリング 〜1年で10倍成長したプロダクトの変化と課題〜](https://speakerdeck.com/yuhisatoxxx/jie-ceng-gou-zao-wobiao-xian-surudetagou-zao-torihuakutaringu-1nian-de10bei-cheng-chang-sitapurodakutonobian-hua-toke-ti)
 - [遅延評価勉強法で良質な学びを](https://speakerdeck.com/yuhisatoxxx/chi-yan-ping-jia-mian-qiang-fa-deliang-zhi-naxue-biwo)
 - [コミュニティビジョン ~繋がりとキャリア~](https://speakerdeck.com/yuhisatoxxx/komiyuniteibiziyon-xi-garitokiyaria)
 - [Wakate.rb #1](https://speakerdeck.com/yuhisatoxxx/wakate-dot-rb-number-1)
+- [社内の3名登壇へ貢献した話 〜若手よ生意気になれ〜](https://speakerdeck.com/yuhisatoxxx/she-nei-no3ming-deng-tan-hegong-xian-sitahua-ruo-shou-yosheng-yi-qi-ninare)
+
+## 最終学歴
+横浜国立大学 理工学部 数・物電子情報系学科 情報工学EP 卒業
+
+## 資格
+- TOEIC R&L 915点
+- 日商簿記2級
